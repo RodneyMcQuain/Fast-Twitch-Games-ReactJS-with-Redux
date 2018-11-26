@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Fast-Twitch-Games-ReactJS-with-Redux/precache-manifest.30e4ee02e381a2b92106d4b584e414c8.js"
+  "/Fast-Twitch-Games-ReactJS-with-Redux/precache-manifest.ecde6eb89b48e09713c507be71721c5d.js"
 );
 
 workbox.clientsClaim();

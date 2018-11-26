@@ -28,12 +28,12 @@ self.__precacheManifest = [
     "url": "/Fast-Twitch-Games-ReactJS-with-Redux/static/media/fontawesome-webfont.674f50d2.eot"
   },
   {
-    "revision": "fee66e712a8a08eef5805a46892932ad",
-    "url": "/Fast-Twitch-Games-ReactJS-with-Redux/static/media/fontawesome-webfont.fee66e71.woff"
-  },
-  {
     "revision": "b06871f281fee6b241d60582ae9369b9",
     "url": "/Fast-Twitch-Games-ReactJS-with-Redux/static/media/fontawesome-webfont.b06871f2.ttf"
+  },
+  {
+    "revision": "fee66e712a8a08eef5805a46892932ad",
+    "url": "/Fast-Twitch-Games-ReactJS-with-Redux/static/media/fontawesome-webfont.fee66e71.woff"
   },
   {
     "revision": "2f7d6ec7557e72f6a33e",
